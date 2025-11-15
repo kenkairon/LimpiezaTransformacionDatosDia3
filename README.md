@@ -297,3 +297,6 @@ python -m src.run_pipeline
 ```sh
 pip install -r requirements.txt
 ```
+
+## Evidencia de Prueba 
+![Prueba](img/limpiezaDatos.png)
