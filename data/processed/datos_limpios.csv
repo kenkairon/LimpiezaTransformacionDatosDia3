@@ -1,0 +1,7 @@
+id,nombre,edad,email,salario,departamento,salario_mensual,categoria_edad
+1,Ana García,25,ana@email.com,45000,Ventas,3750.0,Joven
+2,Carlos López,30,carlos@email.com,55000,It,4583.333333333333,Adulto
+3,María Rodríguez,28,maria@email.com,48000,Marketing,4000.0,Adulto
+4,Juan Pérez,35,juan@email.com,60000,It,5000.0,Adulto
+5,Ana García,25,ana@email.com,45000,Ventas,3750.0,Joven
+6,Luis Martín,40,luis@email.com,52000,Recursos Humanos,4333.333333333333,Senior
